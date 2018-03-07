@@ -1,0 +1,33 @@
+.table{
+    width:70%;
+    margin:auto;
+    border: 2px white solid;
+}
+.table td{
+    border:1px white solid;
+}
+body{
+    background-color:slategray;
+}
+#title{
+    color: white;
+}
+#message{
+    color:white;
+}
+#table{
+    color:white;
+}
+tr:hover{
+    background-color: darkmagenta;
+}
+
+body,input,div {
+     margin: 10px;
+ }
+
+#topItems{
+    width:100%;
+    margin:auto;
+    text-align:center;
+}
